@@ -100,7 +100,6 @@
 }
 
 .container1{
-  clear: both;
   display: flex;
   flex-direction: row;
   text-align: center;
